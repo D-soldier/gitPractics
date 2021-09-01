@@ -1,2 +1,3 @@
 # gitPractics
-so 特么 what
+1. this is first line
+2. this is second line
